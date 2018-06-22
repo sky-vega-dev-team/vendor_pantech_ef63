@@ -58,7 +58,6 @@ PRODUCT_COPY_FILES += \
     vendor/pantech/msm8974-common/proprietary/framework/com.google.widevine.software.drm.jar:system/framework/com.google.widevine.software.drm.jar \
     vendor/pantech/msm8974-common/proprietary/vendor/framework/qcnvitems.jar:system/vendor/framework/qcnvitems.jar \
     vendor/pantech/msm8974-common/proprietary/vendor/framework/qcrilhook.jar:system/vendor/framework/qcrilhook.jar \
-    vendor/pantech/msm8974-common/proprietary/lib/hw/gps.msm8974.so:system/lib/hw/gps.msm8974.so \
     vendor/pantech/msm8974-common/proprietary/lib/libchromatix_imx135_liveshot.so:system/lib/libchromatix_imx135_liveshot.so \
     vendor/pantech/msm8974-common/proprietary/lib/libchromatix_imx214_liveshot.so:system/lib/libchromatix_imx214_liveshot.so \
     vendor/pantech/msm8974-common/proprietary/lib/libchromatix_imx214_zsl.so:system/lib/libchromatix_imx214_zsl.so \
@@ -68,11 +67,8 @@ PRODUCT_COPY_FILES += \
     vendor/pantech/msm8974-common/proprietary/lib/libchromatix_s5k6b2yx_vt.so:system/lib/libchromatix_s5k6b2yx_vt.so \
     vendor/pantech/msm8974-common/proprietary/lib/libchromatix_s5k6b2yx_vt_common.so:system/lib/libchromatix_s5k6b2yx_vt_common.so \
     vendor/pantech/msm8974-common/proprietary/vendor/lib/libdrmdecrypt.so:system/vendor/lib/libdrmdecrypt.so \
-    vendor/pantech/msm8974-common/proprietary/lib/libgps.utils.so:system/lib/libgps.utils.so \
     vendor/pantech/msm8974-common/proprietary/vendor/lib/libloc_api_v02.so:system/vendor/lib/libloc_api_v02.so \
-    vendor/pantech/msm8974-common/proprietary/lib/libloc_core.so:system/lib/libloc_core.so \
     vendor/pantech/msm8974-common/proprietary/vendor/lib/libloc_ds_api.so:system/vendor/lib/libloc_ds_api.so \
-    vendor/pantech/msm8974-common/proprietary/lib/libloc_eng.so:system/lib/libloc_eng.so \
     vendor/pantech/msm8974-common/proprietary/vendor/lib/libmdmdetect.so:system/vendor/lib/libmdmdetect.so \
     vendor/pantech/msm8974-common/proprietary/lib/libmm-omxcore.so:system/lib/libmm-omxcore.so \
     vendor/pantech/msm8974-common/proprietary/vendor/lib/libmmjpeg_interface.so:system/vendor/lib/libmmjpeg_interface.so \
