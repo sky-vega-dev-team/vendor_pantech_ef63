@@ -29,8 +29,8 @@ PRODUCT_COPY_FILES += \
     vendor/pantech/msm8974-common/proprietary/vendor/bin/rmt_storage:system/vendor/bin/rmt_storage \
     vendor/pantech/msm8974-common/proprietary/bin/thermal-engine:system/bin/thermal-engine \
     vendor/pantech/msm8974-common/proprietary/vendor/bin/time_daemon:system/vendor/bin/time_daemon \
-    vendor/pantech/msm8974-common/proprietary/etc/data/netmgr_config.xml:system/etc/data/netmgr_config.xml \
-    vendor/pantech/msm8974-common/proprietary/etc/data/qmi_config.xml:system/etc/data/qmi_config.xml \
+    vendor/pantech/msm8974-common/proprietary/vendor/etc/data/netmgr_config.xml:system/vendor/etc/data/netmgr_config.xml \
+    vendor/pantech/msm8974-common/proprietary/vendor/etc/data/dsi_config.xml:system/vendor/etc/data/dsi_config.xml \
     vendor/pantech/msm8974-common/proprietary/etc/firmware/a225_pfp.fw:system/etc/firmware/a225_pfp.fw \
     vendor/pantech/msm8974-common/proprietary/etc/firmware/a225_pm4.fw:system/etc/firmware/a225_pm4.fw \
     vendor/pantech/msm8974-common/proprietary/etc/firmware/a225p5_pm4.fw:system/etc/firmware/a225p5_pm4.fw \
@@ -71,6 +71,9 @@ PRODUCT_COPY_FILES += \
     vendor/pantech/msm8974-common/proprietary/vendor/lib/libloc_ds_api.so:system/vendor/lib/libloc_ds_api.so \
     vendor/pantech/msm8974-common/proprietary/vendor/lib/libmdmdetect.so:system/vendor/lib/libmdmdetect.so \
     vendor/pantech/msm8974-common/proprietary/lib/libmm-omxcore.so:system/lib/libmm-omxcore.so \
+    vendor/pantech/msm8974-common/proprietary/lib/libgps.utils.so:system/lib/libgps.utils.so \
+    vendor/pantech/msm8974-common/proprietary/lib/libloc_core.so:system/lib/libloc_core.so \
+    vendor/pantech/msm8974-common/proprietary/lib/libloc_eng.so:system/lib/libloc_eng.so \
     vendor/pantech/msm8974-common/proprietary/vendor/lib/libmmjpeg_interface.so:system/vendor/lib/libmmjpeg_interface.so \
     vendor/pantech/msm8974-common/proprietary/vendor/lib/libqomx_core.so:system/vendor/lib/libqomx_core.so \
     vendor/pantech/msm8974-common/proprietary/vendor/lib/libwcnss_qmi.so:system/vendor/lib/libwcnss_qmi.so \
