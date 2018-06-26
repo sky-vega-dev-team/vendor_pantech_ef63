@@ -85,4 +85,4 @@ PRODUCT_COPY_FILES += \
     vendor/pantech/ef63/proprietary/vendor/lib/libmmcamera_tuning.so:system/vendor/lib/libmmcamera_tuning.so \
     vendor/pantech/ef63/proprietary/vendor/lib/libmmcamera_wavelet_lib.so:system/vendor/lib/libmmcamera_wavelet_lib.so \
     vendor/pantech/ef63/proprietary/vendor/lib/liboemcamera.so:system/vendor/lib/liboemcamera.so \
-    vendor/pantech/ef63/proprietary/vendor/lib/hw/camera.msm8974.so:system/vendor/lib/hw/camera.vendor.msm8974.so
+    vendor/pantech/ef63/proprietary/vendor/lib/hw/camera.msm8974.so:system/vendor/lib/hw/camera.msm8974.so
