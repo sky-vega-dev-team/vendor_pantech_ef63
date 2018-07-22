@@ -27,35 +27,32 @@ PRODUCT_COPY_FILES += \
     vendor/pantech/msm8974-common/proprietary/vendor/bin/radish:system/vendor/bin/radish \
     vendor/pantech/msm8974-common/proprietary/vendor/bin/rfs_access:system/vendor/bin/rfs_access \
     vendor/pantech/msm8974-common/proprietary/vendor/bin/rmt_storage:system/vendor/bin/rmt_storage \
-    vendor/pantech/msm8974-common/proprietary/bin/thermal-engine:system/bin/thermal-engine \
+    vendor/pantech/msm8974-common/proprietary/vendor/bin/thermal-engine:system/vendor/bin/thermal-engine \
     vendor/pantech/msm8974-common/proprietary/vendor/bin/time_daemon:system/vendor/bin/time_daemon \
-    vendor/pantech/msm8974-common/proprietary/etc/data/dsi_config.xml:system/etc/data/dsi_config.xml \
-    vendor/pantech/msm8974-common/proprietary/etc/data/netmgr_config.xml:system/etc/data/netmgr_config.xml \
-    vendor/pantech/msm8974-common/proprietary/etc/firmware/a225_pfp.fw:system/etc/firmware/a225_pfp.fw \
-    vendor/pantech/msm8974-common/proprietary/etc/firmware/a225_pm4.fw:system/etc/firmware/a225_pm4.fw \
-    vendor/pantech/msm8974-common/proprietary/etc/firmware/a225p5_pm4.fw:system/etc/firmware/a225p5_pm4.fw \
-    vendor/pantech/msm8974-common/proprietary/etc/firmware/a300_pfp.fw:system/etc/firmware/a300_pfp.fw \
-    vendor/pantech/msm8974-common/proprietary/etc/firmware/a300_pm4.fw:system/etc/firmware/a300_pm4.fw \
+    vendor/pantech/msm8974-common/proprietary/vendor/etc/data/dsi_config.xml:system/vendor/etc/data/dsi_config.xml \
+    vendor/pantech/msm8974-common/proprietary/vendor/etc/data/netmgr_config.xml:system/vendor/etc/data/netmgr_config.xml \
+    vendor/pantech/msm8974-common/proprietary/vendor/etc/firmware/a225_pfp.fw:system/vendor/etc/firmware/a225_pfp.fw \
+    vendor/pantech/msm8974-common/proprietary/vendor/etc/firmware/a225_pm4.fw:system/vendor/etc/firmware/a225_pm4.fw \
+    vendor/pantech/msm8974-common/proprietary/vendor/etc/firmware/a225p5_pm4.fw:system/vendor/etc/firmware/a225p5_pm4.fw \
+    vendor/pantech/msm8974-common/proprietary/vendor/etc/firmware/a300_pfp.fw:system/vendor/etc/firmware/a300_pfp.fw \
+    vendor/pantech/msm8974-common/proprietary/vendor/etc/firmware/a300_pm4.fw:system/vendor/etc/firmware/a300_pm4.fw \
     vendor/pantech/msm8974-common/proprietary/vendor/firmware/a330_pfp.fw:system/vendor/firmware/a330_pfp.fw \
     vendor/pantech/msm8974-common/proprietary/vendor/firmware/a330_pm4.fw:system/vendor/firmware/a330_pm4.fw \
     vendor/pantech/msm8974-common/proprietary/vendor/firmware/cpp_firmware_v1_1_1.fw:system/vendor/firmware/cpp_firmware_v1_1_1.fw \
     vendor/pantech/msm8974-common/proprietary/vendor/firmware/cpp_firmware_v1_1_6.fw:system/vendor/firmware/cpp_firmware_v1_1_6.fw \
     vendor/pantech/msm8974-common/proprietary/vendor/firmware/cpp_firmware_v1_2_0.fw:system/vendor/firmware/cpp_firmware_v1_2_0.fw \
-    vendor/pantech/msm8974-common/proprietary/etc/firmware/leia_pfp_470.fw:system/etc/firmware/leia_pfp_470.fw \
-    vendor/pantech/msm8974-common/proprietary/etc/firmware/leia_pm4_470.fw:system/etc/firmware/leia_pm4_470.fw \
-    vendor/pantech/msm8974-common/proprietary/etc/firmware/venus.b00:system/etc/firmware/venus.b00 \
-    vendor/pantech/msm8974-common/proprietary/etc/firmware/venus.b01:system/etc/firmware/venus.b01 \
-    vendor/pantech/msm8974-common/proprietary/etc/firmware/venus.b02:system/etc/firmware/venus.b02 \
-    vendor/pantech/msm8974-common/proprietary/etc/firmware/venus.b03:system/etc/firmware/venus.b03 \
-    vendor/pantech/msm8974-common/proprietary/etc/firmware/venus.b04:system/etc/firmware/venus.b04 \
-    vendor/pantech/msm8974-common/proprietary/etc/firmware/venus.mbn:system/etc/firmware/venus.mbn \
-    vendor/pantech/msm8974-common/proprietary/etc/firmware/venus.mdt:system/etc/firmware/venus.mdt \
-    vendor/pantech/msm8974-common/proprietary/etc/permissions/android.hardware.location.gps.xml:system/etc/permissions/android.hardware.location.gps.xml \
-    vendor/pantech/msm8974-common/proprietary/etc/permissions/com.google.widevine.software.drm.xml:system/etc/permissions/com.google.widevine.software.drm.xml \
+    vendor/pantech/msm8974-common/proprietary/vendor/etc/firmware/leia_pfp_470.fw:system/vendor/etc/firmware/leia_pfp_470.fw \
+    vendor/pantech/msm8974-common/proprietary/vendor/etc/firmware/leia_pm4_470.fw:system/vendor/etc/firmware/leia_pm4_470.fw \
+    vendor/pantech/msm8974-common/proprietary/vendor/etc/firmware/venus.b00:system/vendor/etc/firmware/venus.b00 \
+    vendor/pantech/msm8974-common/proprietary/vendor/etc/firmware/venus.b01:system/vendor/etc/firmware/venus.b01 \
+    vendor/pantech/msm8974-common/proprietary/vendor/etc/firmware/venus.b02:system/vendor/etc/firmware/venus.b02 \
+    vendor/pantech/msm8974-common/proprietary/vendor/etc/firmware/venus.b03:system/vendor/etc/firmware/venus.b03 \
+    vendor/pantech/msm8974-common/proprietary/vendor/etc/firmware/venus.b04:system/vendor/etc/firmware/venus.b04 \
+    vendor/pantech/msm8974-common/proprietary/vendor/etc/firmware/venus.mbn:system/vendor/etc/firmware/venus.mbn \
+    vendor/pantech/msm8974-common/proprietary/vendor/etc/firmware/venus.mdt:system/vendor/etc/firmware/venus.mdt \
     vendor/pantech/msm8974-common/proprietary/vendor/etc/permissions/qcnvitems.xml:system/vendor/etc/permissions/qcnvitems.xml \
     vendor/pantech/msm8974-common/proprietary/vendor/etc/permissions/qcrilhook.xml:system/vendor/etc/permissions/qcrilhook.xml \
     vendor/pantech/msm8974-common/proprietary/etc/sensor_def_qcomdev.conf:system/etc/sensor_def_qcomdev.conf \
-    vendor/pantech/msm8974-common/proprietary/framework/com.google.widevine.software.drm.jar:system/framework/com.google.widevine.software.drm.jar \
     vendor/pantech/msm8974-common/proprietary/vendor/framework/qcnvitems.jar:system/vendor/framework/qcnvitems.jar \
     vendor/pantech/msm8974-common/proprietary/vendor/framework/qcrilhook.jar:system/vendor/framework/qcrilhook.jar \
     vendor/pantech/msm8974-common/proprietary/lib/libchromatix_imx135_liveshot.so:system/lib/libchromatix_imx135_liveshot.so \
@@ -91,6 +88,11 @@ PRODUCT_COPY_FILES += \
     vendor/pantech/msm8974-common/proprietary/vendor/lib/libCB.so:system/vendor/lib/libCB.so \
     vendor/pantech/msm8974-common/proprietary/vendor/lib/libDivxDrm.so:system/vendor/lib/libDivxDrm.so \
     vendor/pantech/msm8974-common/proprietary/vendor/lib/libI420colorconvert.so:system/vendor/lib/libI420colorconvert.so \
+    vendor/pantech/msm8974-common/proprietary/vendor/lib/libOmxAacDec.so:system/vendor/lib/libOmxAacDec.so \
+    vendor/pantech/msm8974-common/proprietary/vendor/lib/libOmxAmrwbplusDec.so:system/vendor/lib/libOmxAmrwbplusDec.so \
+    vendor/pantech/msm8974-common/proprietary/vendor/lib/libOmxEvrcDec.so:system/vendor/lib/libOmxEvrcDec.so \
+    vendor/pantech/msm8974-common/proprietary/vendor/lib/libOmxQcelp13Dec.so:system/vendor/lib/libOmxQcelp13Dec.so \
+    vendor/pantech/msm8974-common/proprietary/vendor/lib/libOmxWmaDec.so:system/vendor/lib/libOmxWmaDec.so \
     vendor/pantech/msm8974-common/proprietary/vendor/lib/libOpenCL.so:system/vendor/lib/libOpenCL.so \
     vendor/pantech/msm8974-common/proprietary/vendor/lib/libQSEEComAPI.so:system/vendor/lib/libQSEEComAPI.so \
     vendor/pantech/msm8974-common/proprietary/vendor/lib/libRSDriver_adreno.so:system/vendor/lib/libRSDriver_adreno.so \
@@ -275,7 +277,6 @@ PRODUCT_COPY_FILES += \
     vendor/pantech/msm8974-common/proprietary/vendor/lib/libthermalclient.so:system/vendor/lib/libthermalclient.so \
     vendor/pantech/msm8974-common/proprietary/vendor/lib/libthermalioctl.so:system/vendor/lib/libthermalioctl.so \
     vendor/pantech/msm8974-common/proprietary/vendor/lib/libtime_genoff.so:system/vendor/lib/libtime_genoff.so \
-    vendor/pantech/msm8974-common/proprietary/vendor/lib/libuiblur.so:system/vendor/lib/libuiblur.so \
     vendor/pantech/msm8974-common/proprietary/vendor/lib/libwvdrm_L1.so:system/vendor/lib/libwvdrm_L1.so \
     vendor/pantech/msm8974-common/proprietary/vendor/lib/libwvm.so:system/vendor/lib/libwvm.so \
     vendor/pantech/msm8974-common/proprietary/vendor/lib/libxml.so:system/vendor/lib/libxml.so \
