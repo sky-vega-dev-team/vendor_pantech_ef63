@@ -16,30 +16,30 @@
 
 #IM-A910L
 PRODUCT_COPY_FILES += \
-    vendor/pantech/ef63/proprietary/vendor/firmware_ef63l/venus.mbn:system/vendor/firmware_ef63l/venus.mbn \
-    vendor/pantech/ef63/proprietary/vendor/firmware_ef63l/venus.mdt:system/vendor/firmware_ef63l/venus.mdt \
-    vendor/pantech/ef63/proprietary/vendor/firmware_ef63l/venus.b00:system/vendor/firmware_ef63l/venus.b00 \
-    vendor/pantech/ef63/proprietary/vendor/firmware_ef63l/venus.b01:system/vendor/firmware_ef63l/venus.b01 
+    vendor/pantech/ef63/proprietary/vendor/etc/firmware_ef63l/venus.mbn:system/vendor/etc/firmware_ef63l/venus.mbn \
+    vendor/pantech/ef63/proprietary/vendor/etc/firmware_ef63l/venus.mdt:system/vendor/etc/firmware_ef63l/venus.mdt \
+    vendor/pantech/ef63/proprietary/vendor/etc/firmware_ef63l/venus.b00:system/vendor/etc/firmware_ef63l/venus.b00 \
+    vendor/pantech/ef63/proprietary/vendor/etc/firmware_ef63l/venus.b01:system/vendor/etc/firmware_ef63l/venus.b01 
 
 #IM-A910S
 PRODUCT_COPY_FILES += \
-    vendor/pantech/ef63/proprietary/vendor/firmware_ef63s/venus.mbn:system/vendor/firmware_ef63s/venus.mbn \
-    vendor/pantech/ef63/proprietary/vendor/firmware_ef63s/venus.mdt:system/vendor/firmware_ef63s/venus.mdt \
-    vendor/pantech/ef63/proprietary/vendor/firmware_ef63s/venus.b00:system/vendor/firmware_ef63s/venus.b00 \
-    vendor/pantech/ef63/proprietary/vendor/firmware_ef63s/venus.b01:system/vendor/firmware_ef63s/venus.b01 
+    vendor/pantech/ef63/proprietary/vendor/etc/firmware_ef63s/venus.mbn:system/vendor/etc/firmware_ef63s/venus.mbn \
+    vendor/pantech/ef63/proprietary/vendor/etc/firmware_ef63s/venus.mdt:system/vendor/etc/firmware_ef63s/venus.mdt \
+    vendor/pantech/ef63/proprietary/vendor/etc/firmware_ef63s/venus.b00:system/vendor/etc/firmware_ef63s/venus.b00 \
+    vendor/pantech/ef63/proprietary/vendor/etc/firmware_ef63s/venus.b01:system/vendor/etc/firmware_ef63s/venus.b01 
 
 #IM-A910K
 PRODUCT_COPY_FILES += \
-    vendor/pantech/ef63/proprietary/vendor/firmware_ef63k/venus.mbn:system/vendor/firmware_ef63k/venus.mbn \
-    vendor/pantech/ef63/proprietary/vendor/firmware_ef63k/venus.mdt:system/vendor/firmware_ef63k/venus.mdt \
-    vendor/pantech/ef63/proprietary/vendor/firmware_ef63k/venus.b00:system/vendor/firmware_ef63k/venus.b00 \
-    vendor/pantech/ef63/proprietary/vendor/firmware_ef63k/venus.b01:system/vendor/firmware_ef63k/venus.b01 
+    vendor/pantech/ef63/proprietary/vendor/etc/firmware_ef63k/venus.mbn:system/vendor/etc/firmware_ef63k/venus.mbn \
+    vendor/pantech/ef63/proprietary/vendor/etc/firmware_ef63k/venus.mdt:system/vendor/etc/firmware_ef63k/venus.mdt \
+    vendor/pantech/ef63/proprietary/vendor/etc/firmware_ef63k/venus.b00:system/vendor/etc/firmware_ef63k/venus.b00 \
+    vendor/pantech/ef63/proprietary/vendor/etc/firmware_ef63k/venus.b01:system/vendor/etc/firmware_ef63k/venus.b01 
 
 PRODUCT_COPY_FILES += \
     vendor/pantech/ef63/proprietary/vendor/bin/sensors.qcom:system/vendor/bin/sensors.qcom \
-    vendor/pantech/ef63/proprietary/vendor/firmware/venus.b02:system/vendor/firmware/venus.b02 \
-    vendor/pantech/ef63/proprietary/vendor/firmware/venus.b03:system/vendor/firmware/venus.b03 \
-    vendor/pantech/ef63/proprietary/vendor/firmware/venus.b04:system/vendor/firmware/venus.b04 \
+    vendor/pantech/ef63/proprietary/vendor/etc/firmware/venus.b02:system/vendor/firmware/venus.b02 \
+    vendor/pantech/ef63/proprietary/vendor/etc/firmware/venus.b03:system/vendor/firmware/venus.b03 \
+    vendor/pantech/ef63/proprietary/vendor/etc/firmware/venus.b04:system/vendor/firmware/venus.b04 \
     vendor/pantech/ef63/proprietary/lib/libmmcamera_interface.so:system/lib/libmmcamera_interface.so \
     vendor/pantech/ef63/proprietary/lib/libmm-qcamera.so:system/lib/libmm-qcamera.so \
     vendor/pantech/ef63/proprietary/lib/libmmcamera_rohm_eeprom.so:system/lib/libmmcamera_rohm_eeprom.so \

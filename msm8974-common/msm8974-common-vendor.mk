@@ -36,20 +36,13 @@ PRODUCT_COPY_FILES += \
     vendor/pantech/msm8974-common/proprietary/vendor/etc/firmware/a225p5_pm4.fw:system/vendor/etc/firmware/a225p5_pm4.fw \
     vendor/pantech/msm8974-common/proprietary/vendor/etc/firmware/a300_pfp.fw:system/vendor/etc/firmware/a300_pfp.fw \
     vendor/pantech/msm8974-common/proprietary/vendor/etc/firmware/a300_pm4.fw:system/vendor/etc/firmware/a300_pm4.fw \
-    vendor/pantech/msm8974-common/proprietary/vendor/firmware/a330_pfp.fw:system/vendor/firmware/a330_pfp.fw \
-    vendor/pantech/msm8974-common/proprietary/vendor/firmware/a330_pm4.fw:system/vendor/firmware/a330_pm4.fw \
-    vendor/pantech/msm8974-common/proprietary/vendor/firmware/cpp_firmware_v1_1_1.fw:system/vendor/firmware/cpp_firmware_v1_1_1.fw \
-    vendor/pantech/msm8974-common/proprietary/vendor/firmware/cpp_firmware_v1_1_6.fw:system/vendor/firmware/cpp_firmware_v1_1_6.fw \
-    vendor/pantech/msm8974-common/proprietary/vendor/firmware/cpp_firmware_v1_2_0.fw:system/vendor/firmware/cpp_firmware_v1_2_0.fw \
+    vendor/pantech/msm8974-common/proprietary/vendor/etc/firmware/a330_pfp.fw:system/vendor/firmware/a330_pfp.fw \
+    vendor/pantech/msm8974-common/proprietary/vendor/etc/firmware/a330_pm4.fw:system/vendor/firmware/a330_pm4.fw \
+    vendor/pantech/msm8974-common/proprietary/vendor/etc/firmware/cpp_firmware_v1_1_1.fw:system/vendor/firmware/cpp_firmware_v1_1_1.fw \
+    vendor/pantech/msm8974-common/proprietary/vendor/etc/firmware/cpp_firmware_v1_1_6.fw:system/vendor/firmware/cpp_firmware_v1_1_6.fw \
+    vendor/pantech/msm8974-common/proprietary/vendor/etc/firmware/cpp_firmware_v1_2_0.fw:system/vendor/firmware/cpp_firmware_v1_2_0.fw \
     vendor/pantech/msm8974-common/proprietary/vendor/etc/firmware/leia_pfp_470.fw:system/vendor/etc/firmware/leia_pfp_470.fw \
     vendor/pantech/msm8974-common/proprietary/vendor/etc/firmware/leia_pm4_470.fw:system/vendor/etc/firmware/leia_pm4_470.fw \
-    vendor/pantech/msm8974-common/proprietary/vendor/etc/firmware/venus.b00:system/vendor/etc/firmware/venus.b00 \
-    vendor/pantech/msm8974-common/proprietary/vendor/etc/firmware/venus.b01:system/vendor/etc/firmware/venus.b01 \
-    vendor/pantech/msm8974-common/proprietary/vendor/etc/firmware/venus.b02:system/vendor/etc/firmware/venus.b02 \
-    vendor/pantech/msm8974-common/proprietary/vendor/etc/firmware/venus.b03:system/vendor/etc/firmware/venus.b03 \
-    vendor/pantech/msm8974-common/proprietary/vendor/etc/firmware/venus.b04:system/vendor/etc/firmware/venus.b04 \
-    vendor/pantech/msm8974-common/proprietary/vendor/etc/firmware/venus.mbn:system/vendor/etc/firmware/venus.mbn \
-    vendor/pantech/msm8974-common/proprietary/vendor/etc/firmware/venus.mdt:system/vendor/etc/firmware/venus.mdt \
     vendor/pantech/msm8974-common/proprietary/vendor/etc/permissions/qcnvitems.xml:system/vendor/etc/permissions/qcnvitems.xml \
     vendor/pantech/msm8974-common/proprietary/vendor/etc/permissions/qcrilhook.xml:system/vendor/etc/permissions/qcrilhook.xml \
     vendor/pantech/msm8974-common/proprietary/etc/sensor_def_qcomdev.conf:system/etc/sensor_def_qcomdev.conf \
