@@ -16,7 +16,7 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifneq ($(filter ef56 ef59 ef60 ef63,$(TARGET_DEVICE)),)
+ifneq ($(filter ef56 ef59 ef60 ef63 ef65,$(TARGET_DEVICE)),)
 
 include $(CLEAR_VARS)
 LOCAL_MODULE := qcrilmsgtunnel
