@@ -22,3 +22,17 @@ PRODUCT_COPY_FILES += \
     vendor/pantech/ef52/proprietary/lib/hw/sensors_native_hal.so:system/lib/hw/sensors_native_hal.so \
     vendor/pantech/ef52/proprietary/lib/hw/sensors_qcom.so:system/lib/hw/sensors_qcom.so \
     vendor/pantech/ef52/proprietary/lib/hw/lights.msm8960.so:system/lib/hw/lights.msm8960.so
+
+PRODUCT_COPY_FILES += \
+    vendor/pantech/ef52/proprietary/etc/firmware/cyttsp_8064_mtp.hex:system/etc/firmware/cyttsp_8064_mtp.hex \
+    vendor/pantech/ef52/proprietary/etc/firmware/cyttsp_8960_cdp.hex:system/etc/firmware/cyttsp_8960_cdp.hex \
+    vendor/pantech/ef52/proprietary/etc/firmware/leia_pfp_470.fw:system/etc/firmware/leia_pfp_470.fw \
+    vendor/pantech/ef52/proprietary/etc/firmware/leia_pm4_470.fw:system/etc/firmware/leia_pm4_470.fw \
+    vendor/pantech/ef52/proprietary/etc/firmware/vidc_1080p.fw:system/etc/firmware/vidc_1080p.fw \
+    vendor/pantech/ef52/proprietary/etc/firmware/vidc.b00:system/etc/firmware/vidc.b00 \
+    vendor/pantech/ef52/proprietary/etc/firmware/vidc.b01:system/etc/firmware/vidc.b01 \
+    vendor/pantech/ef52/proprietary/etc/firmware/vidc.b02:system/etc/firmware/vidc.b02 \
+    vendor/pantech/ef52/proprietary/etc/firmware/vidc.b03:system/etc/firmware/vidc.b03 \
+    vendor/pantech/ef52/proprietary/etc/firmware/vidcfw.elf:system/etc/firmware/vidcfw.elf \
+    vendor/pantech/ef52/proprietary/etc/firmware/vidc.mdt:system/etc/firmware/vidc.mdt \
+    vendor/pantech/ef52/proprietary/etc/firmware/libpn544_fw.so:system/etc/firmware/libpn544_fw.so \
