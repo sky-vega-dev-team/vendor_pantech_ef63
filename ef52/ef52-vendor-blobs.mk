@@ -16,24 +16,24 @@
 
 #IM-A870L
 PRODUCT_COPY_FILES += \
-    vendor/pantech/ef52/proprietary/vendor/etc/firmware_ef52l/vidcfw.elf:system/vendor/etc/firmware_ef52l/vidcfw.elf \
-    vendor/pantech/ef52/proprietary/vendor/etc/firmware_ef52l/vidc.mdt:system/vendor/etc/firmware_ef52l/vidc.mdt \
-    vendor/pantech/ef52/proprietary/vendor/etc/firmware_ef52l/vidc.b00:system/vendor/etc/firmware_ef52l/vidc.b00 \
-    vendor/pantech/ef52/proprietary/vendor/etc/firmware_ef52l/vidc.b01:system/vendor/etc/firmware_ef52l/vidc.b01 
+    vendor/pantech/ef52/proprietary/etc/firmware_ef52l/vidcfw.elf:system/etc/firmware_ef52l/vidcfw.elf \
+    vendor/pantech/ef52/proprietary/etc/firmware_ef52l/vidc.mdt:system/etc/firmware_ef52l/vidc.mdt \
+    vendor/pantech/ef52/proprietary/etc/firmware_ef52l/vidc.b00:system/etc/firmware_ef52l/vidc.b00 \
+    vendor/pantech/ef52/proprietary/etc/firmware_ef52l/vidc.b01:system/etc/firmware_ef52l/vidc.b01 
 
 #IM-A870S
 PRODUCT_COPY_FILES += \
-    vendor/pantech/ef52/proprietary/vendor/etc/firmware_ef52s/vidcfw.elf:system/vendor/etc/firmware_ef52s/vidcfw.elf \
-    vendor/pantech/ef52/proprietary/vendor/etc/firmware_ef52s/vidc.mdt:system/vendor/etc/firmware_ef52s/vidc.mdt \
-    vendor/pantech/ef52/proprietary/vendor/etc/firmware_ef52s/vidc.b00:system/vendor/etc/firmware_ef52s/vidc.b00 \
-    vendor/pantech/ef52/proprietary/vendor/etc/firmware_ef52s/vidc.b01:system/vendor/etc/firmware_ef52s/vidc.b01 
+    vendor/pantech/ef52/proprietary/etc/firmware_ef52s/vidcfw.elf:system/etc/firmware_ef52s/vidcfw.elf \
+    vendor/pantech/ef52/proprietary/etc/firmware_ef52s/vidc.mdt:system/etc/firmware_ef52s/vidc.mdt \
+    vendor/pantech/ef52/proprietary/etc/firmware_ef52s/vidc.b00:system/etc/firmware_ef52s/vidc.b00 \
+    vendor/pantech/ef52/proprietary/etc/firmware_ef52s/vidc.b01:system/etc/firmware_ef52s/vidc.b01 
 
 #IM-A870K
 PRODUCT_COPY_FILES += \
-    vendor/pantech/ef52/proprietary/vendor/etc/firmware_ef52k/vidcfw.elf:system/vendor/etc/firmware_ef52k/vidcfw.elf \
-    vendor/pantech/ef52/proprietary/vendor/etc/firmware_ef52k/vidc.mdt:system/vendor/etc/firmware_ef52k/vidc.mdt \
-    vendor/pantech/ef52/proprietary/vendor/etc/firmware_ef52k/vidc.b00:system/vendor/etc/firmware_ef52k/vidc.b00 \
-    vendor/pantech/ef52/proprietary/vendor/etc/firmware_ef52k/vidc.b01:system/vendor/etc/firmware_ef52k/vidc.b01 
+    vendor/pantech/ef52/proprietary/etc/firmware_ef52k/vidcfw.elf:system/etc/firmware_ef52k/vidcfw.elf \
+    vendor/pantech/ef52/proprietary/etc/firmware_ef52k/vidc.mdt:system/etc/firmware_ef52k/vidc.mdt \
+    vendor/pantech/ef52/proprietary/etc/firmware_ef52k/vidc.b00:system/etc/firmware_ef52k/vidc.b00 \
+    vendor/pantech/ef52/proprietary/etc/firmware_ef52k/vidc.b01:system/etc/firmware_ef52k/vidc.b01 
 
 PRODUCT_COPY_FILES += \
     vendor/pantech/ef52/proprietary/lib/libsensor1.so:system/lib/libsensor1.so \
