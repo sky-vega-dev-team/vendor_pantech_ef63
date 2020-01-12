@@ -152,7 +152,6 @@ PRODUCT_COPY_FILES += \
     vendor/pantech/msm8960-common/proprietary/lib/libloc_core.so:system/lib/libloc_core.so \
     vendor/pantech/msm8960-common/proprietary/lib/libloc_eng.so:system/lib/libloc_eng.so \
     vendor/pantech/msm8960-common/proprietary/lib/libgps.utils.so:system/lib/libgps.utils.so \
-    vendor/pantech/msm8960-common/proprietary/lib/libqc-opt.so:system/lib/libqc-opt.so \
     vendor/pantech/msm8960-common/proprietary/lib/libqmiservices.so:system/lib/libqmiservices.so \
     vendor/pantech/msm8960-common/proprietary/lib/libqmissa.so:system/lib/libqmissa.so \
     vendor/pantech/msm8960-common/proprietary/lib/libnetmgr.so:system/lib/libnetmgr.so \
@@ -222,6 +221,7 @@ PRODUCT_COPY_FILES += \
     vendor/pantech/msm8960-common/proprietary/vendor/lib/libllvm-arm.so:system/vendor/lib/libllvm-arm.so \
     vendor/pantech/msm8960-common/proprietary/vendor/lib/liblowi_client.so:system/vendor/lib/liblowi_client.so \
     vendor/pantech/msm8960-common/proprietary/vendor/lib/libmsapm_jni.so:system/vendor/lib/libmsapm_jni.so \
+    vendor/pantech/msm8960-common/proprietary/vendor/lib/libqc-opt.so:system/vendor/lib/libqc-opt.so \
     vendor/pantech/msm8960-common/proprietary/vendor/lib/libqmi_cci.so:system/vendor/lib/libqmi_cci.so \
     vendor/pantech/msm8960-common/proprietary/vendor/lib/libqmi_common_so.so:system/vendor/lib/libqmi_common_so.so \
     vendor/pantech/msm8960-common/proprietary/vendor/lib/libqmi_csi.so:system/vendor/lib/libqmi_csi.so \
