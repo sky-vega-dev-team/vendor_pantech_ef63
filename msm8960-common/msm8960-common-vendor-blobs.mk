@@ -84,7 +84,6 @@ PRODUCT_COPY_FILES += \
     vendor/pantech/msm8960-common/proprietary/bin/netmgrd:system/bin/netmgrd \
     vendor/pantech/msm8960-common/proprietary/bin/efsks:system/bin/efsks \
     vendor/pantech/msm8960-common/proprietary/bin/qrngd:system/bin/qrngd \
-    vendor/pantech/msm8960-common/proprietary/bin/sensors.qcom:system/bin/sensors.qcom \
     vendor/pantech/msm8960-common/proprietary/bin/sensorservice:system/bin/sensorservice \
     vendor/pantech/msm8960-common/proprietary/lib/libadsprpc.so:system/lib/libadsprpc.so \
     vendor/pantech/msm8960-common/proprietary/lib/libcneapiclient.so:system/lib/libcneapiclient.so \
@@ -109,15 +108,6 @@ PRODUCT_COPY_FILES += \
     vendor/pantech/msm8960-common/proprietary/lib/libmm-abl.so:system/lib/libmm-abl.so \
     vendor/pantech/msm8960-common/proprietary/lib/libmm-color-convertor.so:system/lib/libmm-color-convertor.so \
     vendor/pantech/msm8960-common/proprietary/lib/libmm-color-convertor_jb.so:system/lib/libmm-color-convertor_jb.so \
-    vendor/pantech/msm8960-common/proprietary/lib/libmmcamera_faceproc.so:system/lib/libmmcamera_faceproc.so \
-    vendor/pantech/msm8960-common/proprietary/lib/libmmcamera_frameproc.so:system/lib/libmmcamera_frameproc.so \
-    vendor/pantech/msm8960-common/proprietary/lib/libmmcamera_hdr_lib.so:system/lib/libmmcamera_hdr_lib.so \
-    vendor/pantech/msm8960-common/proprietary/lib/libmmcamera_image_stab.so:system/lib/libmmcamera_image_stab.so \
-    vendor/pantech/msm8960-common/proprietary/lib/libmmcamera_interface.so:system/lib/libmmcamera_interface.so \
-    vendor/pantech/msm8960-common/proprietary/lib/libmmcamera_interface2.so:system/lib/libmmcamera_interface2.so \
-    vendor/pantech/msm8960-common/proprietary/lib/libmmcamera_plugin.so:system/lib/libmmcamera_plugin.so \
-    vendor/pantech/msm8960-common/proprietary/lib/libmmcamera_statsproc31.so:system/lib/libmmcamera_statsproc31.so \
-    vendor/pantech/msm8960-common/proprietary/lib/libmmcamera_wavelet_lib.so:system/lib/libmmcamera_wavelet_lib.so \
     vendor/pantech/msm8960-common/proprietary/lib/libmmipl.so:system/lib/libmmipl.so \
     vendor/pantech/msm8960-common/proprietary/lib/libmmjpeg_interface.so:system/lib/libmmjpeg_interface.so \
     vendor/pantech/msm8960-common/proprietary/lib/libmmjps.so:system/lib/libmmjps.so \
@@ -157,7 +147,6 @@ PRODUCT_COPY_FILES += \
     vendor/pantech/msm8960-common/proprietary/lib/libnetmgr.so:system/lib/libnetmgr.so \
     vendor/pantech/msm8960-common/proprietary/lib/libualutil.so:system/lib/libualutil.so \
     vendor/pantech/msm8960-common/proprietary/lib/hw/gps.msm8960.so:system/lib/hw/gps.msm8960.so \
-    vendor/pantech/msm8960-common/proprietary/lib/hw/camera.msm8960.so:system/lib/hw/camera.msm8960.so \
     vendor/pantech/msm8960-common/proprietary/lib/hw/nfc.default.so:system/lib/hw/nfc.default.so \
     vendor/pantech/msm8960-common/proprietary/lib/libpantech_qcci.so:system/lib/libpantech_qcci.so \
     vendor/pantech/msm8960-common/proprietary/lib/libpantech_wifi_mac_backup.so:system/lib/libpantech_wifi_mac_backup.so \
@@ -178,7 +167,6 @@ PRODUCT_COPY_FILES += \
     vendor/pantech/msm8960-common/proprietary/lib/libskytestclient.so:system/lib/libskytestclient.so \
     vendor/pantech/msm8960-common/proprietary/lib/libstlport.so:system/lib/libstlport.so \
     vendor/pantech/msm8960-common/proprietary/lib/liboem_ssa.so:system/lib/liboem_ssa.so \
-    vendor/pantech/msm8960-common/proprietary/lib/liboemcamera.so:system/lib/liboemcamera.so \
     vendor/pantech/msm8960-common/proprietary/lib/libvendor_aka.so:system/lib/libvendor_aka.so \
     vendor/pantech/msm8960-common/proprietary/lib/libyas530.so:system/lib/libyas530.so \
     vendor/pantech/msm8960-common/proprietary/vendor/lib/egl/eglsubAndroid.so:system/vendor/lib/egl/eglsubAndroid.so \

@@ -36,13 +36,25 @@ PRODUCT_COPY_FILES += \
     vendor/pantech/ef52/proprietary/etc/firmware_ef52k/vidc.b01:system/etc/firmware_ef52k/vidc.b01 
 
 PRODUCT_COPY_FILES += \
+    vendor/pantech/ef52/proprietary/bin/sensors.qcom:system/bin/sensors.qcom \
+    vendor/pantech/ef52/proprietary/lib/libmmcamera_faceproc.so:system/lib/libmmcamera_faceproc.so \
+    vendor/pantech/ef52/proprietary/lib/libmmcamera_frameproc.so:system/lib/libmmcamera_frameproc.so \
+    vendor/pantech/ef52/proprietary/lib/libmmcamera_hdr_lib.so:system/lib/libmmcamera_hdr_lib.so \
+    vendor/pantech/ef52/proprietary/lib/libmmcamera_image_stab.so:system/lib/libmmcamera_image_stab.so \
+    vendor/pantech/ef52/proprietary/lib/libmmcamera_interface.so:system/lib/libmmcamera_interface.so \
+    vendor/pantech/ef52/proprietary/lib/libmmcamera_interface2.so:system/lib/libmmcamera_interface2.so \
+    vendor/pantech/ef52/proprietary/lib/libmmcamera_plugin.so:system/lib/libmmcamera_plugin.so \
+    vendor/pantech/ef52/proprietary/lib/libmmcamera_statsproc31.so:system/lib/libmmcamera_statsproc31.so \
+    vendor/pantech/ef52/proprietary/lib/libmmcamera_wavelet_lib.so:system/lib/libmmcamera_wavelet_lib.so \
+    vendor/pantech/ef52/proprietary/lib/liboemcamera.so:system/lib/liboemcamera.so \
     vendor/pantech/ef52/proprietary/lib/libsensor1.so:system/lib/libsensor1.so \
     vendor/pantech/ef52/proprietary/lib/libsensor_reg.so:system/lib/libsensor_reg.so \
     vendor/pantech/ef52/proprietary/lib/libmmjpeg.so:system/lib/libmmjpeg.so \
+    vendor/pantech/ef52/proprietary/lib/hw/camera.msm8960.so:system/lib/hw/camera.msm8960.so \
     vendor/pantech/ef52/proprietary/lib/hw/sensors.msm8960.so:system/lib/hw/sensors.msm8960.so \
     vendor/pantech/ef52/proprietary/lib/hw/sensors_native_hal.so:system/lib/hw/sensors_native_hal.so \
     vendor/pantech/ef52/proprietary/lib/hw/sensors_qcom.so:system/lib/hw/sensors_qcom.so \
-    vendor/pantech/ef52/proprietary/lib/hw/lights.msm8960.so:system/lib/hw/lights.msm8960.so
+    vendor/pantech/ef52/proprietary/lib/hw/lights.msm8960.so:system/lib/hw/lights.msm8960.so \
 
 PRODUCT_COPY_FILES += \
     vendor/pantech/ef52/proprietary/etc/firmware/cyttsp_8064_mtp.hex:system/etc/firmware/cyttsp_8064_mtp.hex \
