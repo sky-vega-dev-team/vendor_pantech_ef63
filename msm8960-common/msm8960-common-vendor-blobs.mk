@@ -113,7 +113,6 @@ PRODUCT_COPY_FILES += \
     vendor/pantech/msm8960-common/proprietary/lib/libmmjps.so:system/lib/libmmjps.so \
     vendor/pantech/msm8960-common/proprietary/lib/libmmmpo.so:system/lib/libmmmpo.so \
     vendor/pantech/msm8960-common/proprietary/lib/libmmmpod.so:system/lib/libmmmpod.so \
-    vendor/pantech/msm8960-common/proprietary/lib/libmmosal.so:system/lib/libmmosal.so \
     vendor/pantech/msm8960-common/proprietary/lib/libmmparser.so:system/lib/libmmparser.so \
     vendor/pantech/msm8960-common/proprietary/lib/libmmrtpencoder.so:system/lib/libmmrtpencoder.so \
     vendor/pantech/msm8960-common/proprietary/lib/libmmstillomx.so:system/lib/libmmstillomx.so \
@@ -135,7 +134,6 @@ PRODUCT_COPY_FILES += \
     vendor/pantech/msm8960-common/proprietary/lib/libWVphoneAPI.so:system/lib/libWVphoneAPI.so \
     vendor/pantech/msm8960-common/proprietary/lib/libxml.so:system/lib/libxml.so \
     vendor/pantech/msm8960-common/proprietary/lib/libtime_genoff.so:system/lib/libtime_genoff.so \
-    vendor/pantech/msm8960-common/proprietary/lib/libDivxDrm.so:system/lib/libDivxDrm.so \
     vendor/pantech/msm8960-common/proprietary/lib/libdiagdpl.so:system/lib/libdiagdpl.so \
     vendor/pantech/msm8960-common/proprietary/lib/libloc_adapter.so:system/lib/libloc_adapter.so \
     vendor/pantech/msm8960-common/proprietary/lib/libloc_api_v02.so:system/lib/libloc_api_v02.so \
@@ -173,7 +171,6 @@ PRODUCT_COPY_FILES += \
     vendor/pantech/msm8960-common/proprietary/vendor/lib/egl/libplayback_adreno.so:system/vendor/lib/egl/libplayback_adreno.so \
     vendor/pantech/msm8960-common/proprietary/vendor/lib/egl/libEGL_adreno.so:system/vendor/lib/egl/libEGL_adreno.so \
     vendor/pantech/msm8960-common/proprietary/vendor/lib/egl/libGLESv1_CM_adreno.so:system/vendor/lib/egl/libGLESv1_CM_adreno.so \
-    vendor/pantech/msm8960-common/proprietary/vendor/lib/egl/libGLESv2S3D_adreno.so:system/vendor/lib/egl/libGLESv2S3D_adreno.so \
     vendor/pantech/msm8960-common/proprietary/vendor/lib/egl/libGLESv2_adreno.so:system/vendor/lib/egl/libGLESv2_adreno.so \
     vendor/pantech/msm8960-common/proprietary/vendor/lib/egl/libq3dtools_adreno.so:system/vendor/lib/egl/libq3dtools_adreno.so \
     vendor/pantech/msm8960-common/proprietary/vendor/lib/drm/libdrmwvmplugin.so:system/vendor/lib/drm/libdrmwvmplugin.so \
