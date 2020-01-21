@@ -98,6 +98,7 @@ PRODUCT_COPY_FILES += \
     vendor/pantech/msm8960-common/proprietary/lib/libdsutils.so:system/lib/libdsutils.so \
     vendor/pantech/msm8960-common/proprietary/lib/libExtendedExtractor.so:system/lib/libExtendedExtractor.so \
     vendor/pantech/msm8960-common/proprietary/lib/libgemini.so:system/lib/libgemini.so \
+    vendor/pantech/msm8960-common/proprietary/lib/libgnustl_shared.so:system/lib/libgnustl_shared.so \
     vendor/pantech/msm8960-common/proprietary/lib/libidl.so:system/lib/libidl.so \
     vendor/pantech/msm8960-common/proprietary/lib/libfactoryutil.so:system/lib/libfactoryutil.so \
     vendor/pantech/msm8960-common/proprietary/lib/libimage-jpeg-enc-omx-comp.so:system/lib/libimage-jpeg-enc-omx-comp.so \
