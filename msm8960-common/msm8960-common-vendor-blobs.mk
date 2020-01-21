@@ -74,7 +74,6 @@ PRODUCT_COPY_FILES += \
     vendor/pantech/msm8960-common/proprietary/bin/qmiproxy:system/bin/qmiproxy \
     vendor/pantech/msm8960-common/proprietary/bin/qseecomd:system/bin/qseecomd \
     vendor/pantech/msm8960-common/proprietary/bin/radish:system/bin/radish \
-    vendor/pantech/msm8960-common/proprietary/bin/rmt_storage:system/bin/rmt_storage \
     vendor/pantech/msm8960-common/proprietary/bin/thermald:system/bin/thermald \
     vendor/pantech/msm8960-common/proprietary/bin/bridgemgrd:system/bin/bridgemgrd \
     vendor/pantech/msm8960-common/proprietary/bin/btnvtool:system/bin/btnvtool \
@@ -181,8 +180,6 @@ PRODUCT_COPY_FILES += \
     vendor/pantech/msm8960-common/proprietary/vendor/lib/libC2D2.so:system/vendor/lib/libC2D2.so \
     vendor/pantech/msm8960-common/proprietary/vendor/lib/libCB.so:system/vendor/lib/libCB.so \
     vendor/pantech/msm8960-common/proprietary/vendor/lib/libc2d30.so:system/vendor/lib/libc2d30.so \
-    vendor/pantech/msm8960-common/proprietary/vendor/lib/libOpenCL.so:system/vendor/lib/libOpenCL.so \
-    vendor/pantech/msm8960-common/proprietary/vendor/lib/libOpenVG.so:system/vendor/lib/libOpenVG.so \
     vendor/pantech/msm8960-common/proprietary/vendor/lib/libWVphoneAPI.so:system/vendor/lib/libWVphoneAPI.so \
     vendor/pantech/msm8960-common/proprietary/vendor/lib/libadreno_utils.so:system/vendor/lib/libadreno_utils.so \
     vendor/pantech/msm8960-common/proprietary/vendor/lib/libbccQTI.so:system/vendor/lib/libbccQTI.so \
