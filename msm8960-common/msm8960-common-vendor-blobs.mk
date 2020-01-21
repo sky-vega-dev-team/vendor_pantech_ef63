@@ -119,7 +119,6 @@ PRODUCT_COPY_FILES += \
     vendor/pantech/msm8960-common/proprietary/lib/libmorpho_easy_hdr.so:system/lib/libmorpho_easy_hdr.so \
     vendor/pantech/msm8960-common/proprietary/lib/libNimsWrap.so:system/lib/libNimsWrap.so \
     vendor/pantech/msm8960-common/proprietary/lib/libOlaEngine.so:system/lib/libOlaEngine.so \
-    vendor/pantech/msm8960-common/proprietary/lib/liboemcrypto.so:system/lib/liboemcrypto.so \
     vendor/pantech/msm8960-common/proprietary/lib/libqcci_adc.so:system/lib/libqcci_adc.so \
     vendor/pantech/msm8960-common/proprietary/lib/libqcci_legacy.so:system/lib/libqcci_legacy.so \
     vendor/pantech/msm8960-common/proprietary/lib/libqctdspsreg.so:system/lib/libqctdspsreg.so \
@@ -175,6 +174,8 @@ PRODUCT_COPY_FILES += \
     vendor/pantech/msm8960-common/proprietary/vendor/lib/egl/libGLESv2_adreno.so:system/vendor/lib/egl/libGLESv2_adreno.so \
     vendor/pantech/msm8960-common/proprietary/vendor/lib/egl/libq3dtools_adreno.so:system/vendor/lib/egl/libq3dtools_adreno.so \
     vendor/pantech/msm8960-common/proprietary/vendor/lib/drm/libdrmwvmplugin.so:system/vendor/lib/drm/libdrmwvmplugin.so \
+    vendor/pantech/msm8960-common/proprietary/vendor/lib/libwvdrm_L3.so:system/vendor/lib/libwvdrm_L3.so \
+    vendor/pantech/msm8960-common/proprietary/vendor/lib/libWVStreamControlAPI_L3.so:system/vendor/lib/libWVStreamControlAPI_L3.so \
     vendor/pantech/msm8960-common/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so \
     vendor/pantech/msm8960-common/proprietary/vendor/lib/libC2D2.so:system/vendor/lib/libC2D2.so \
     vendor/pantech/msm8960-common/proprietary/vendor/lib/libCB.so:system/vendor/lib/libCB.so \
@@ -191,7 +192,6 @@ PRODUCT_COPY_FILES += \
     vendor/pantech/msm8960-common/proprietary/vendor/lib/libc2d30-a3xx.so:system/vendor/lib/libc2d30-a3xx.so \
     vendor/pantech/msm8960-common/proprietary/vendor/lib/libc2d2_z180.so:system/vendor/lib/libc2d2_z180.so \
     vendor/pantech/msm8960-common/proprietary/vendor/lib/libdiag.so:system/vendor/lib/libdiag.so \
-    vendor/pantech/msm8960-common/proprietary/vendor/lib/libdrmdecrypt.so:system/vendor/lib/libdrmdecrypt.so \
     vendor/pantech/msm8960-common/proprietary/vendor/lib/libepdsp.so:system/vendor/lib/libepdsp.so \
     vendor/pantech/msm8960-common/proprietary/vendor/lib/libgeofence.so:system/vendor/lib/libgeofence.so \
     vendor/pantech/msm8960-common/proprietary/vendor/lib/libgsl.so:system/vendor/lib/libgsl.so \
