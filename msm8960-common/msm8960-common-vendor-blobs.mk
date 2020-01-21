@@ -119,6 +119,7 @@ PRODUCT_COPY_FILES += \
     vendor/pantech/msm8960-common/proprietary/lib/libmorpho_easy_hdr.so:system/lib/libmorpho_easy_hdr.so \
     vendor/pantech/msm8960-common/proprietary/lib/libNimsWrap.so:system/lib/libNimsWrap.so \
     vendor/pantech/msm8960-common/proprietary/lib/libOlaEngine.so:system/lib/libOlaEngine.so \
+    vendor/pantech/msm8960-common/proprietary/lib/liboemcrypto.so:system/lib/liboemcrypto.so \
     vendor/pantech/msm8960-common/proprietary/lib/libqcci_adc.so:system/lib/libqcci_adc.so \
     vendor/pantech/msm8960-common/proprietary/lib/libqcci_legacy.so:system/lib/libqcci_legacy.so \
     vendor/pantech/msm8960-common/proprietary/lib/libqctdspsreg.so:system/lib/libqctdspsreg.so \
