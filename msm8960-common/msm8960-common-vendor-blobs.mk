@@ -20,13 +20,19 @@ PRODUCT_COPY_FILES += \
     vendor/pantech/msm8960-common/proprietary/bin/mm-qcamera-daemon:system/bin/mm-qcamera-daemon
 endif
 
+#QCRIL
+PRODUCT_COPY_FILES += \
+    vendor/pantech/msm8960-common/proprietary/etc/permissions/qcnvitems.xml:system/etc/permissions/qcnvitems.xml \
+    vendor/pantech/msm8960-common/proprietary/etc/permissions/qcrilhook.xml:system/etc/permissions/qcrilhook.xml \
+    vendor/pantech/msm8960-common/proprietary/framework/qcnvitems.jar:system/framework/qcnvitems.jar \
+    vendor/pantech/msm8960-common/proprietary/framework/qcrilhook.jar:system/framework/qcrilhook.jar \
+
 #GPU firmware
 PRODUCT_COPY_FILES += \
     vendor/pantech/msm8960-common/proprietary/vendor/firmware/a300_pfp.fw:system/vendor/firmware/a300_pfp.fw \
     vendor/pantech/msm8960-common/proprietary/vendor/firmware/a300_pm4.fw:system/vendor/firmware/a300_pm4.fw
 
 PRODUCT_COPY_FILES += \
-    vendor/pantech/msm8960-common/proprietary/bin/thermal-engine:system/bin/thermal-engine \
     vendor/pantech/msm8960-common/proprietary/bin/time_daemon:system/bin/time_daemon \
     vendor/pantech/msm8960-common/proprietary/bin/diag_klog:system/bin/diag_klog \
     vendor/pantech/msm8960-common/proprietary/bin/diag_mdlog:system/bin/diag_mdlog \
@@ -173,3 +179,5 @@ PRODUCT_COPY_FILES += \
     vendor/pantech/msm8960-common/proprietary/vendor/lib/libRSDriver_adreno.so:system/vendor/lib/libRSDriver_adreno.so \
     vendor/pantech/msm8960-common/proprietary/vendor/lib/librpmb.so:system/vendor/lib/librpmb.so \
     vendor/pantech/msm8960-common/proprietary/vendor/lib/libssd.so:system/vendor/lib/libssd.so \
+    vendor/pantech/msm8960-common/proprietary/priv-app/qcrilmsgtunnel/qcrilmsgtunnel.apk:system/priv-app/qcrilmsgtunnel/qcrilmsgtunnel.apk \
+
