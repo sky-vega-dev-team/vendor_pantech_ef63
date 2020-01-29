@@ -115,6 +115,7 @@ PRODUCT_COPY_FILES += \
     vendor/pantech/msm8960-common/proprietary/vendor/lib/libualutil.so:$(TARGET_COPY_OUT_VENDOR)/lib/libualutil.so \
     vendor/pantech/msm8960-common/proprietary/vendor/lib/hw/gps.msm8960.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/gps.msm8960.so \
     vendor/pantech/msm8960-common/proprietary/vendor/lib/hw/nfc.default.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/nfc.default.so \
+    vendor/pantech/msm8960-common/proprietary/vendor/lib/libstlport.so:$(TARGET_COPY_OUT_VENDOR)/lib/libstlport.so \
     vendor/pantech/msm8960-common/proprietary/vendor/lib/liboem_ssa.so:$(TARGET_COPY_OUT_VENDOR)/lib/liboem_ssa.so \
     vendor/pantech/msm8960-common/proprietary/vendor/lib/libvendor_aka.so:$(TARGET_COPY_OUT_VENDOR)/lib/libvendor_aka.so \
     vendor/pantech/msm8960-common/proprietary/vendor/lib/libyas530.so:$(TARGET_COPY_OUT_VENDOR)/lib/libyas530.so \
