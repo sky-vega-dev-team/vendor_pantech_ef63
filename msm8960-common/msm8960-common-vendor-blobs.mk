@@ -56,7 +56,6 @@ PRODUCT_COPY_FILES += \
     vendor/pantech/msm8960-common/proprietary/bin/netmgrd:system/bin/netmgrd \
     vendor/pantech/msm8960-common/proprietary/bin/efsks:system/bin/efsks \
     vendor/pantech/msm8960-common/proprietary/bin/qrngd:system/bin/qrngd \
-    vendor/pantech/msm8960-common/proprietary/bin/sensors.qcom:system/bin/sensors.qcom \
     vendor/pantech/msm8960-common/proprietary/bin/sensorservice:system/bin/sensorservice \
     vendor/pantech/msm8960-common/proprietary/lib/libacdbloader.so:system/lib/libacdbloader.so \
     vendor/pantech/msm8960-common/proprietary/lib/libaudcal.so:system/lib/libaudcal.so \

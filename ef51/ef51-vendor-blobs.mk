@@ -56,3 +56,4 @@ PRODUCT_COPY_FILES += \
     vendor/pantech/ef51/proprietary/etc/firmware/vidc.b02:system/etc/firmware/vidc.b02 \
     vendor/pantech/ef51/proprietary/etc/firmware/vidc.b03:system/etc/firmware/vidc.b03 \
     vendor/pantech/ef51/proprietary/etc/firmware/libpn544_fw.so:system/etc/firmware/libpn544_fw.so \
+    vendor/pantech/ef51/proprietary/bin/sensors.qcom:system/bin/sensors.qcom \
