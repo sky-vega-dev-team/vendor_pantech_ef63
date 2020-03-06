@@ -47,7 +47,6 @@ PRODUCT_COPY_FILES += \
     vendor/pantech/msm8960-common/proprietary/bin/qmiproxy:system/bin/qmiproxy \
     vendor/pantech/msm8960-common/proprietary/bin/qseecomd:system/bin/qseecomd \
     vendor/pantech/msm8960-common/proprietary/bin/radish:system/bin/radish \
-    vendor/pantech/msm8960-common/proprietary/bin/thermald:system/bin/thermald \
     vendor/pantech/msm8960-common/proprietary/bin/bridgemgrd:system/bin/bridgemgrd \
     vendor/pantech/msm8960-common/proprietary/bin/btnvtool:system/bin/btnvtool \
     vendor/pantech/msm8960-common/proprietary/bin/fetch-swv:system/bin/fetch-swv \
