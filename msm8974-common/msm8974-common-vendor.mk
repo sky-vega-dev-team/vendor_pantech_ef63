@@ -29,7 +29,6 @@ PRODUCT_COPY_FILES += \
     vendor/pantech/msm8974-common/proprietary/vendor/bin/rfs_access:system/vendor/bin/rfs_access \
     vendor/pantech/msm8974-common/proprietary/vendor/bin/rmt_storage:system/vendor/bin/rmt_storage \
     vendor/pantech/msm8974-common/proprietary/vendor/bin/thermal-engine:system/vendor/bin/thermal-engine \
-    vendor/pantech/msm8974-common/proprietary/vendor/bin/time_daemon:system/vendor/bin/time_daemon \
     vendor/pantech/msm8974-common/proprietary/vendor/etc/data/dsi_config.xml:system/vendor/etc/data/dsi_config.xml \
     vendor/pantech/msm8974-common/proprietary/vendor/etc/data/netmgr_config.xml:system/vendor/etc/data/netmgr_config.xml \
     vendor/pantech/msm8974-common/proprietary/vendor/etc/firmware/a225_pfp.fw:system/vendor/etc/firmware/a225_pfp.fw \
@@ -98,7 +97,6 @@ PRODUCT_COPY_FILES += \
     vendor/pantech/msm8974-common/proprietary/vendor/lib/libQSEEComAPI.so:system/vendor/lib/libQSEEComAPI.so \
     vendor/pantech/msm8974-common/proprietary/vendor/lib/libRSDriver_adreno.so:system/vendor/lib/libRSDriver_adreno.so \
     vendor/pantech/msm8974-common/proprietary/vendor/lib/libSHIMDivxDrm.so:system/vendor/lib/libSHIMDivxDrm.so \
-    vendor/pantech/msm8974-common/proprietary/vendor/lib/libTimeService.so:system/vendor/lib/libTimeService.so \
     vendor/pantech/msm8974-common/proprietary/vendor/lib/libWVStreamControlAPI_L1.so:system/vendor/lib/libWVStreamControlAPI_L1.so \
     vendor/pantech/msm8974-common/proprietary/vendor/lib/libacdbloader.so:system/vendor/lib/libacdbloader.so \
     vendor/pantech/msm8974-common/proprietary/vendor/lib/libacdbmapper.so:system/vendor/lib/libacdbmapper.so \
