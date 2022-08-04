@@ -16,17 +16,15 @@
 
 #IM-A890K
 PRODUCT_COPY_FILES += \
-    vendor/pantech/ef59/proprietary/vendor/etc/firmware_ef59k/venus.mbn:system/vendor/firmware/venus.mbn \
-    vendor/pantech/ef59/proprietary/vendor/etc/firmware_ef59k/venus.mdt:system/vendor/firmware/venus.mdt \
-    vendor/pantech/ef59/proprietary/vendor/etc/firmware_ef59k/venus.b00:system/vendor/firmware/venus.b00 \
-    vendor/pantech/ef59/proprietary/vendor/etc/firmware_ef59k/venus.b01:system/vendor/firmware/venus.b01 
-
-PRODUCT_COPY_FILES += \
     vendor/pantech/ef59/proprietary/vendor/bin/sensors.qcom:system/vendor/bin/sensors.qcom \
     vendor/pantech/ef59/proprietary/vendor/lib/hw/camera.msm8974.so:system/vendor/lib/hw/camera.msm8974.so \
-    vendor/pantech/ef59/proprietary/vendor/etc/firmware/venus.b02:system/vendor/firmware/venus.b02 \
-    vendor/pantech/ef59/proprietary/vendor/etc/firmware/venus.b03:system/vendor/firmware/venus.b03 \
-    vendor/pantech/ef59/proprietary/vendor/etc/firmware/venus.b04:system/vendor/firmware/venus.b04 \
+    vendor/pantech/ef59/proprietary/vendor/firmware/venus.mbn:system/vendor/firmware/venus.mbn \
+    vendor/pantech/ef59/proprietary/vendor/firmware/venus.mdt:system/vendor/firmware/venus.mdt \
+    vendor/pantech/ef59/proprietary/vendor/firmware/venus.b00:system/vendor/firmware/venus.b00 \
+    vendor/pantech/ef59/proprietary/vendor/firmware/venus.b01:system/vendor/firmware/venus.b01 \
+    vendor/pantech/ef59/proprietary/vendor/firmware/venus.b02:system/vendor/firmware/venus.b02 \
+    vendor/pantech/ef59/proprietary/vendor/firmware/venus.b03:system/vendor/firmware/venus.b03 \
+    vendor/pantech/ef59/proprietary/vendor/firmware/venus.b04:system/vendor/firmware/venus.b04 \
     vendor/pantech/ef59/proprietary/lib/libmmcamera_interface.so:system/lib/libmmcamera_interface.so \
     vendor/pantech/ef59/proprietary/lib/libmmcamera_rohm_eeprom.so:system/lib/libmmcamera_rohm_eeprom.so \
     vendor/pantech/ef59/proprietary/lib/libmmcamera_rumba_sa_eeprom.so:system/lib/libmmcamera_rumba_sa_eeprom.so \
